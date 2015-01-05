@@ -1,0 +1,4 @@
+NumberOfObjects:3
+Name:Sun Mass:1.98892e30 R:100 G:100 B:0 PosX:0.0 PosY:0.0 PosZ:0.0 VelX:0.0 VelY:0.0 VelZ:0.0
+Name:Earth Mass:5.972e24 R:0 G:0 B:100 PosX:0.0 PosY:149600000000 PosZ:0.0 VelX:-29783.0 VelY:0.0 VelZ:0.0
+Name:Moon Mass:7.36e22 R:50 G:50 B:50 PosX:0.0 PosY:149215600000 PosZ:0.0 VelX:-28781.0 VelY:0.0 VelZ:0.0
